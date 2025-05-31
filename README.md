@@ -1,6 +1,6 @@
 # PD-Sniffer
 
-This project is based off the Twinkie, a Google designed PD sniffer/analyser. [link](https://www.chromium.org/chromium-os/twinkie)
+This project is based off the Twinkie, a Google designed PD sniffer/analyser. [link](https://www.chromium.org/chromium-os/developer-library/guides/hardware-schematics/twinkie/)
 
 Unfortunately the original designers of the Twinkie designed the hardware with laptop like specifications. As a result the design features a 6L PCB with stacked micro-vias. This makes it expensive to manufacture.
 
